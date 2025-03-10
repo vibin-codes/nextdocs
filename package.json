@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "vercel-build",
+    "build": "next build",
     "dev": "next dev --turbopack",
     "start": "next start"
   },
